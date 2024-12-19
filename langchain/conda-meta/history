@@ -1,4 +1,4 @@
-==> 2024-12-19 23:07:48 <==
+==> 2024-12-19 23:16:24 <==
 # cmd: /opt/homebrew/anaconda3/bin/conda create -p langchain python==3.11
 # conda version: 24.9.2
 +defaults/noarch::tzdata-2024b-h04d1e81_0
